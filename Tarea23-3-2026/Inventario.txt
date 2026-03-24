@@ -1,0 +1,4 @@
+Acer Nitro , Laptop , 60000.0 , 1
+Asus , Laptop , 85000.0 , 20
+MSI , Laptop , 120000.0 , 300
+Lenovo , Laptop , 70000.0 , 50
